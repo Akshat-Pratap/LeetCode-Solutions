@@ -20,11 +20,3 @@ The repository is structured by problem. Each folder contains:
 * The solution file (`.py`, `.cpp`, `.go`)
 * A `README.md` containing the problem description, constraints, and examples.
 * Notes on Time & Space Complexity (where applicable).
-
-## 📈 Stats & Progress
-*(You can link your LeetCode profile here so recruiters can verify)*
-* **LeetCode Profile:** [Link to your Profile]
-* **Total Solved:** [Update occasionally, e.g., 50+]
-
----
-*Created and maintained by [Your Name]*

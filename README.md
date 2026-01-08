@@ -13,7 +13,7 @@ I maintain this repository to:
 
 ## 🛠️ Tech Stack
 * **Languages:** [Python / C++ / Go - Pick your main one]
-* **Automation:** Synced via [LeetSync](https://github.com/3212003/LeetSync)
+* **Automation:** Synced via [LeetSync]([https://github.com/3212003/LeetSync](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd?hl=en-GB&utm_source=ext_sidebar))
 
 ## 📂 Repository Structure
 The repository is structured by problem. Each folder contains:

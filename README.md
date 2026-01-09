@@ -12,7 +12,7 @@ I maintain this repository to:
 3.  **Optimize:** A history of how my code quality improves over time.
 
 ## 🛠️ Tech Stack
-* **Languages:** [Python / C++ / Go - Pick your main one]
+* **Languages:** [C++]
 * **Automation:** Synced via LeetSync
 ## 📂 Repository Structure
 The repository is structured by problem. Each folder contains:

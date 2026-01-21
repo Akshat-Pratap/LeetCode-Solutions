@@ -12,6 +12,9 @@ public:
                 count++;
             }
         }
-        return count;
+        if (count>=1)
+            return count;
+        else
+             return 0;
     }
 };

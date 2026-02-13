@@ -3,10 +3,6 @@ public:
     vector<int> sortEvenOdd(vector<int>& nums) {
         int n=nums.size();
         vector<int> odd,even;
-        if (n<=2)
-        {
-            return nums;
-        }
         for (int i=0;i<n;i++)
         {
             if(i%2==0)

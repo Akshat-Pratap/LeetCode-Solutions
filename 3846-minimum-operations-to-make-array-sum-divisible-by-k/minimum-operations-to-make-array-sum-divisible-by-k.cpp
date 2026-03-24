@@ -7,13 +7,6 @@ public:
         {
             sum+=nums[i];
         }
-        while (true)
-        {
-            if(sum%k==0)
-                return count;
-            else
-                sum--;
-                count+=1;
-        }
+        return sum%k;
     }
 };
